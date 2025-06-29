@@ -1,2 +1,2 @@
 # Microservices-java
-Microservices em Java utilizando Spring Boot
+Api construida em bases de microservices em java utilizando o spring boot para o Petunia
